@@ -7,10 +7,10 @@
 
 This exercise explores the valgrind tool to improve code quality during development and testing. Valgrind helps detect several types of code issues:
 
-Undefined behavior
-Function and memory profiling
-Data-race detection
-Memory leak detection
+- Undefined behavior
+- Function and memory profiling
+- Data-race detection
+- Memory leak detection
 
 ## Standard install via command-line
 ```
